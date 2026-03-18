@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 361B-63D2
+
+ Directory of C:\Users\CAMBAS\Desktop\GitExercises
+
+03/18/2026  02:40 PM    <DIR>          .
+03/18/2026  02:36 PM    <DIR>          ..
+03/18/2026  02:40 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  374,295,314,432 bytes free
